@@ -1,3 +1,4 @@
+# pythagorian triplet with a+b+b=1000
 status=0
 for s in range(3,1000,2):
     for t in range (1,s,2):

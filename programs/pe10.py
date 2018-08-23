@@ -1,3 +1,4 @@
+# sum of prime nummbers below 2 millions
 s=2
 a=[2]
 c=1
@@ -8,7 +9,6 @@ for i in range(3,2000000,2):
             status=0
             break
     if status:
-        print(i,end=" ")
         s+=i
         a.insert(c,i)
         c+=1

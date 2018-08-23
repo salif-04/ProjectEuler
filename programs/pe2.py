@@ -1,3 +1,4 @@
+# sum of even valued fibonacci term upto 4 million
 a,b=1,2
 s = 2
 while(a+b < 4000000):

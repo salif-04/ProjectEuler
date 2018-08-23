@@ -1,3 +1,4 @@
+# difference between sum of squares and square of sum of first 100 naturals numbers
 s1 = 0
 s2 = 0
 for i in range(1,101):
